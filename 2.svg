@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#2B2A29;stroke-width:20;stroke-miterlimit:22.9256}
+    .fil0 {fill:#FFED00}
+    .fil1 {fill:#E31E24}
+    .fil2 {fill:#AE4A84}
+   ]]>
+  </style>
+ </defs>
+ <g id="Прямоугольник_x0020_и_x0020_эллипс">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <ellipse class="fil0 str0" cx="6430.37" cy="11579.7" rx="4520.83" ry="1791.67"/>
+  <rect class="fil1 str0" x="1951.06" y="13778.61" width="9111.95" height="3583.34"/>
+ </g>
+ <g id="Звёздочка">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <polygon class="fil2 str0" points="6597.04,9933.86 7179.07,11910.03 9073.75,11906.04 7538.78,13123.39 8127.73,15097.1 6597.04,13873.29 5066.35,15097.1 5655.3,13123.39 4120.33,11906.04 6015.01,11910.03 "/>
+ </g>
+</svg>
